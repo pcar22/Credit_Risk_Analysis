@@ -39,4 +39,4 @@ EasyEnsembleAdaBoostClassifier
 ## Summary
 In the first four models we undersampled, oversampled and did a combination of both to try and determine which model is best at predicting credit risk. In the next two models, we resampled the data to try and determine a better model.
 
-Typically in your models you want a good balance of recall and precision and based on these results, I would recommend the EasyEnsembleAdaBoostClassifier model.
+Typically in your models you want a good balance of recall and precision and based on these results. The Easy Ensemble Classifier outperformed all of the other models, with a balanced score of 0.92. I would recommend the EasyEnsembleAdaBoostClassifier model.
