@@ -32,7 +32,7 @@ BalancedRandomForestClassifier
 
 EasyEnsembleAdaBoostClassifier
 
-![EasyEnsembleAdaBoostClassifier](https://github.com/pcar22/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForestClassifier_comb.png)
+![EasyEnsembleAdaBoostClassifier](https://github.com/pcar22/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleAdaBoostClassifier_comb.png)
 
 
 
